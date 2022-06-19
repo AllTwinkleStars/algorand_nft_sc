@@ -1,6 +1,6 @@
 # Deployment
 
-[tenx-certificate-nft](https://nft-certificate-algo.herokuapp.com/)
+This app was deployed on heroku [Tenx Certificate as NFTs](https://nft-certificate-algo.herokuapp.com/)
 
 # Algorand SDK for Python
 
