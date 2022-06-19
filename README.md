@@ -1,6 +1,12 @@
+# Deployment
+
+[tenx-certificate-nft](https://nft-certificate-algo.herokuapp.com/)
+
 # Algorand SDK for Python
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Setup
 
 ## Available Scripts
 
