@@ -20,9 +20,11 @@ const Navbar = () => {
         {["Market", "Exchange", "Wallets"].map((item, index) => (
           <NavBarItem key={item + index} title={item} />
         ))}
-        <li className="bg-[#2952e3] py-2 px-7 mx-4 rounded-full cursor-pointer hover:bg-[#2546bd]">
-          Login
-        </li>
+        <a href="https://community.algorand.org/accounts/login/" target="_blank" rel="noreferrer">
+          <li className="bg-[#2952e3] py-2 px-7 mx-4 rounded-full cursor-pointer hover:bg-[#2546bd]">
+            Login
+          </li>
+        </a>
       </ul>
       <div className="flex relative">
         {!toggleMenu && (
