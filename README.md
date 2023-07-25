@@ -64,7 +64,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### Analyzing the Bundle Size
 
 [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-# Deployment
-
-This app was deployed on heroku [Tenx Certificate as NFTs](https://nft-certificate-algo.herokuapp.com/)
